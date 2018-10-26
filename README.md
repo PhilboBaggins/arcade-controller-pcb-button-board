@@ -4,6 +4,8 @@
 
 Design files for the button board in the [arcade controller](https://github.com/PhilboBaggins/arcade-controller) project.
 
+<img width="50%" src="./board-design.png">
+
 ## Design files
 
 This board was designed using the [Upverter](https://upverter.com) web service.
