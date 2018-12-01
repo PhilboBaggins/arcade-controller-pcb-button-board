@@ -1,8 +1,8 @@
-# Arcade controller button board
+# Modular controller button board
 
 <img align="right" src="./PlaceholderImage.png">
 
-Design files for the button board in the [arcade controller](https://github.com/PhilboBaggins/arcade-controller) project.
+Design files for the button board in the [modular controller](https://github.com/PhilboBaggins/modular-controller) project.
 
 <img width="50%" src="./board-design.png">
 
