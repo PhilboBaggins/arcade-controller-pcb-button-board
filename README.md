@@ -14,7 +14,7 @@ Design files for the button board in the [modular controller](https://github.com
 
 This board was designed using the [Upverter](https://upverter.com) web service.
 
-The schematic, board layout and bill of materials can be viewed [here](https://upverter.com/Trebuchetindustries/fa6acea04f1b8e9d/Arcade-controller---Button-board/). Exports from Upverter are [available in a subdirectory](./Upverter%20exports).
+The schematic, board layout and bill of materials can be viewed [here](https://upverter.com/Trebuchetindustries/fa6acea04f1b8e9d/Modular-controller---Button-board/). Exports from Upverter are [available in a subdirectory](./Upverter%20exports).
 
 ## Licence
 
